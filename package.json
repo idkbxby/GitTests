@@ -1,0 +1,24 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bucles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idkbxby/GitTests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/idkbxby/GitTests/issues"
+  },
+  "homepage": "https://github.com/idkbxby/GitTests#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
